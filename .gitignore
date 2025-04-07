@@ -27,7 +27,7 @@ yarn-error.log*
 # IDE
 .idea
 
-.env*
+#.env*
 !.env.template
 
 vite.config.ts.timestamp*
